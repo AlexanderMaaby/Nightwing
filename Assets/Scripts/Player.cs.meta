@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 596f328a9971b784a8dae20059804e23
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - spellamount: {instanceID: 0}
+  - spellborder: {instanceID: 0}
+  - inventory: {instanceID: 0}
+  - healthBar: {instanceID: 0}
+  - m_Projectile: {instanceID: 0}
+  - z_Projectile: {instanceID: 0}
+  - vfxProjectile: {instanceID: 0}
+  - m_SpawnTransform: {instanceID: 0}
+  - cam: {instanceID: 0}
+  - healingAuraVFX: {fileID: 2111087262658287816, guid: f531a9191fff45b418cbbc1ec6b74197,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
